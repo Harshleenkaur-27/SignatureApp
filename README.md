@@ -5,7 +5,7 @@ Signature App is a web-based application that allows users to create and customi
 Clone the repository to your local machine and open the index.html file in any browser to run the app.
 
 ## bash
-git clone https://github.com/your-repo/signature-app.git
+git clone https://github.com/Harshleenkaur-27/SignatureApp.git
 ## Usage
 Draw a Signature: Use your mouse to draw on the canvas.
 ## Customize:
